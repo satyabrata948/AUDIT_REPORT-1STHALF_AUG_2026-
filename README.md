@@ -1,5 +1,6 @@
 # AUDIT_REPORT-1STHALF_AUG_2026-
 Sales Difference Audit &amp; Reconciliation – Meesho Supply Chain Operations
+
 As part of my work in Supply Chain Analytics and Warehouse Operations, I regularly work with operational data such as picklists, dispatch quantities, product sales report(PSR), inventory, and courier transactions.
 
 During an audit of the August 2026 Meesho operations data, I noticed a 53-unit Sales Difference in the reconciliation report.
